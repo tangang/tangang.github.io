@@ -1,0 +1,26 @@
+# Site settings
+name: KISS
+email: tangang@hotmail.com
+author: tangang
+url: https://tangang.github.io
+resume_site: ""
+github: https://github.com/tangang/
+baseurl: ""
+description: Keep it simple and stupid
+meta_description: programer & investor
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: tangang
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
