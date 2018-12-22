@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-12-22
-categories: jekyll
-tag: jekyll
+categories: blog
+tag: installb
 ---
 
 * content
